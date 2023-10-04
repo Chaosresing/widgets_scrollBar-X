@@ -1,0 +1,17 @@
+.selectOtdel {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+  height: 40px;
+  max-width: 47%;
+
+  margin: 0 auto;
+
+  white-space: nowrap;
+
+  position: relative;
+
+  margin-top: 20px;
+}
+

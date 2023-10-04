@@ -1,0 +1,18 @@
+.selectOtdel-spisok__item {
+  height: 40px;
+  width: 130px;
+
+  padding: 0;
+
+  border: 1px solid rgb(35, 167, 35);
+
+  color: white;
+
+  background-color: green;
+
+  cursor: pointer;
+}
+
+.selectOtdel-spisok__item:hover {
+  opacity: .6;
+}

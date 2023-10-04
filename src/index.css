@@ -1,0 +1,12 @@
+@import url("./components/App/App.css");
+
+/*SelectOtdel*/
+@import url("./components/SelectOtdel/selectOtdel.css");
+  @import url("./components/SelectOtdel/__button-left/selectOtdel__button-left.css");
+  @import url("./components/SelectOtdel/__button-arrowLeft/selectOtdel__button-arrowLeft.css");
+  @import url("./components/SelectOtdel/__button-right/selectOtdel__button-right.css");
+  @import url("./components/SelectOtdel/__button-arrowRight/selectOtdel__button-arrowRight.css");
+  @import url("./components/SelectOtdel/selectOtdel-spisok/selectOtdel-spisok.css");
+    @import url("./components/SelectOtdel/selectOtdel-spisok/__item/selectOtdel-spisok__item.css");
+  @import url("./components/SelectOtdel/inactiv/inactiv.css");
+

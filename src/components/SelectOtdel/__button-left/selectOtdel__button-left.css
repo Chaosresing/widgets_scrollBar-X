@@ -1,0 +1,17 @@
+.selectOtdel__button-left {
+  position: absolute;
+  left: 0;
+
+  height: 40px;
+
+  border: none;
+
+  cursor: pointer;
+  z-index: 2;
+
+  opacity: .6;
+}
+
+.selectOtdel__button-left:hover {
+  opacity: 1;
+}
